@@ -1,0 +1,94 @@
+.navbar {
+  background-color: #c2f7c2;
+  height: 10%;
+  width: 70vw;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-header {
+  font-size: xxx-large;
+  color: gray;
+  font-style: normal;
+  text-decoration: none;
+  margin: auto;
+  padding: 5%;
+}
+
+.nav-button {
+  height: 10vh;
+  width: 20vw;
+  margin: auto;
+  background-color: transparent;
+  font-size: 120%;
+}
+
+.transactions {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#total {
+  font-size: xx-large;
+  width: 45vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2%;
+}
+
+tr {
+  height: 10vh;
+}
+
+td {
+  width: 17vw;
+  font-size: x-large;
+}
+
+.new-item-header {
+  margin-left: 20%;
+  font-size: xx-large;
+}
+
+.new-form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 0.5%;
+  font-size: x-large;
+}
+
+input {
+  height: 5vh;
+  margin-bottom: 1%;
+  width: 15vw;
+  font-size: x-large;
+}
+
+button {
+  height: 5vh;
+  margin-bottom: 1%;
+  width: 15vw;
+  font-size: large;
+  margin-top: 1%;
+}
+
+.Home {
+  text-align: center;
+  font-size: xxx-large;
+}
+
+.edit-form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20%;
+  padding-top: 5%;
+}
+
+.show {
+  margin-left: 20%;
+  font-size: x-large;
+}
